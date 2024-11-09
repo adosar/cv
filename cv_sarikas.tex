@@ -1,0 +1,203 @@
+\documentclass[sans]{moderncv}
+
+% Theme
+\moderncvtheme[blue]{classic}
+\usepackage[scale=0.8]{geometry}
+\recomputelengths
+
+% Packages
+\usepackage{chemmacros}
+\usepackage{enumerate}
+
+% Personal data
+\title{Chemist}
+\firstname{Antonios P.}
+\familyname{Sarikas}
+\extrainfo{3 January 2000}
+\email{antonios.sarikas@gmail.com}
+\homepage{https://adosar.github.io/}
+\social[github]{adosar}
+\social[googlescholar]{Zv2Uk0AAAAAJ}
+\quote{If the implementation is easy to explain, it may be a good idea.}
+\photo[64pt]{fig/photo.jpg}
+
+% Publications
+\usepackage[sorting=ydnt, maxbibnames=99, url=false]{biblatex}
+\addbibresource{publications.bib}
+%\renewcommand{\refname}{Publications}
+
+\begin{document}
+
+\makecvtitle
+
+\section{Education}
+\cvline{2022--2024}{Master of Science, Physical Chemistry, Department of
+Chemistry, University of Crete}
+\cvline{}{\textit{9.86} (Excellent)}
+\cvline{2018--2022}{Bachelor of Science, Chemistry, Department of Chemistry,
+University of Crete}
+\cvline{}{\textit{8.64} (Excellent)}
+\cvline{}{(\textbf{First of the class --- obtained in 3.5/4.0 years})}
+%\cventry{2015--2018}{High School Degree}{Archangelos Senior High
+%School}{Rhodes}{\textit{19.9}}{}   
+
+\section{Master thesis}
+\cvline{Title}{From the Potential Energy Surface to Gas Adsorption via Deep Learning}
+\cvline{Supervisor}{George E. Froudakis}
+\cvline{Description}{Developing a deep learning based method for predicting gas
+adsorption in porous materials.}
+
+\section{Bachelor thesis}
+\cvline{Title}{Screening of MOFs for \ch{H2} Storage via Machine Learning}
+\cvline{Supervisor}{George E. Froudakis}
+\cvline{Description}{Developing a machine learning based method for fast
+screening of large databases, in order to identify top performing MOFs for
+hydrogen storage.}
+
+\section{Scholarships -- Awards}
+\cvline{2024}{Postgraduate fellowship, Independent Power Transmission Operator S.A. Fellowship}
+\cvline{2024}{Postgraduate fellowship, Maria Michail Manasaki Bequest Fellowship}
+\cvline{2023}{Chatzimarinaki Award, Department of Chemistry, University of
+Crete}
+\cvline{2021--2022}{Undergraduate scholarship, Stamatiou Foundation}
+\cvline{2020--2021}{Undergraduate scholarship, Stamatiou Foundation}
+\cvline{2019--2020}{Undergraduate scholarship, Stamatiou Foundation}
+
+% Publications
+\section{Publications}
+\nocite{*}
+\cvline{Published}{\printbibliography[heading=none]}
+
+%\begin{thebibliography}{9}
+%	\bibitem{}
+%		\textbf{[1]} \phantom{A} Antonios P. Sarikas, George S. Fanourgakis, Emmanuel Tylianakis,
+%		Konstantinos Gkagkas and George E. Froudakis. ``Comparison of Energy-Based
+%		Machine Learning Descriptors for Gas Adsorption''. \textit{The Journal of
+%		Physical Chemistry C} (Oct. 2023). {\footnotesize\scshape DOI}:
+%		\url{doi.org/10.1021/acs.jpcc.3c04223}
+%	\bibitem{}
+%		\textbf{[2]} \phantom{A} Antonios P. Sarikas, George S. Fanourgakis and
+%		George E. Froudakis.  ``Metal-Organic Framewokrs in the Age of Machine
+%		Learning''. De Gruyter (Jan. 2023). {\footnotesize\scshape DOI}:
+%		\url{doi.org/10.1515/9781501524721}
+%	\bibitem{}
+%		\textbf{[3]} \phantom{A} Antonios P. Sarikas, George S. Fanourgakis,
+%		Konstantinos Gkagkas and George E. Froudakis. Comparison of Machine
+%		Learning Approaches for the Identification of Top-Performing Materials
+%		for Hydrogen Storage. Accepted in \textit{Sustainable Chemistry for the
+%		Environment}.
+%	\bibitem{}
+%		\textbf{[4]} \phantom{A} Antonios P. Sarikas, Konstantinos Gkagkas and
+%		George E. Froudakis. Gas Adsorption Meets Deep Learning: Voxelizing The
+%		Potential Energy Surface of MOFs. Under review in \textit{Scientific
+%		Reports}.
+%	\bibitem{}
+%		\textbf{[5]} \phantom{A} Antonios P. Sarikas, George S. Fanourgakis,
+%		Konstantinos Gkagkas and George E. Froudakis. An Efficient
+%		Machine–Learning Based Approach for the Identification of Top–Performing
+%		Metal–Organic Frameworks for \ch{CO2} Storage. In preparation.
+%\end{thebibliography}
+
+%\cvline{submitted}{
+%	\begin{description}
+%		\item[scientific reports]
+%			gas adsorption meets deep learning: voxelizing the potential energy
+%			surface of mofs. antonios p.  sarikas, george konstantinos gkagkas,
+%			george e.  froudakis.
+%		\item[journal of chemical information and modeling]
+%			an efficient machine–learning based approach for the identification
+%			of top–performing metal–organic frameworks for \ch{co2} storage.
+%			antonios p.  sarikas, george s. fanourgakis, konstantinos gkagkas,
+%			george e.  froudakis.
+%	\end{description}
+%}
+
+%\cvline{Published}{
+%	\begin{description}
+%		\item[Book Chapter] \textit{Metal-organic frameworks in the age of
+%			machine learning}. Belmabkhout, Youssef and Cordova, Kyle E..
+%			\href{https:doi.org/10.1515/9781501524721}{Reticular Chemistry and
+%			Applications: Metal-Organic Frameworks, Berlin, Boston: De Gruyter,
+%			2023.}
+%	\end{description}
+%	\begin{description}
+%		\item[Book Chapter] \textit{Metal-organic frameworks in the age of
+%			machine learning}. Belmabkhout, Youssef and Cordova, Kyle E..
+%			\href{https:doi.org/10.1515/9781501524721}{Reticular Chemistry and
+%			Applications: Metal-Organic Frameworks, Berlin, Boston: De Gruyter,
+%			2023.}
+%	\end{description}
+%}
+%
+%\cvline{To be Submitted}{
+%	\begin{description}
+%		\item[Journal Article] Antonios P. Sarikas, George S. Fanourgakis,
+%		Konstantinos Gkagkas, George E. Froudakis; \textit{Can Accurate Machine
+%		Learning Models Pinpoint the Best Materials Efficiently?}; 2022 
+%		\item[Journal Article] George S. Fanourgakis, Antonios P. Sarikas,
+%		Konstantinos Gkagkas, George E. Froudakis; \textit{Efficient
+%		Identification of Top-performing Materials for Carbon-dioxide Storage};
+%		2022
+%		\item[Journal Article] Antonios P. Sarikas, George S. Fanourgakis,
+%		Manolis Tylianakis, Konstantinos Gkagkas, George E. Froudakis;
+%		\textit{Efficient Machine Learning Descriptors for Gas Storage}; 2022
+%	\end{description}
+%}
+
+\section{Software development}
+\cvline{\includegraphics[scale=0.52]{fig/aidsorb_logo_light.pdf}}{
+	\raisebox{0.55em}{\includegraphics[scale=0.1]{fig/python_logo.pdf}}
+	\raisebox{1em}{\href{https://github.com/adosar/aidsorb}{package for deep
+    learning on molecular point clouds}}
+    \begin{itemize}
+        \item \href{https://github.com/adosar/aidsorb}{Source code}
+        \item \href{https://aidsorb.readthedocs.io/en/stable/}{Documentation}
+    \end{itemize}
+}
+\cvline{\includegraphics[scale=0.11]{fig/moxel_logo.pdf}}{
+	\raisebox{0.55em}{\includegraphics[scale=0.1]{fig/python_logo.pdf}}
+	\raisebox{1em}{\href{https://github.com/adosar/moxel}{package for parallel calculation of energy
+	voxels}}
+    \begin{itemize}
+        \item \href{https://github.com/adosar/moxel}{Source code}
+        \item \href{https://moxel.readthedocs.io/en/stable/}{Documentation}
+    \end{itemize}
+}
+
+\section{Presentations -- Posters}
+\cvlistitem{Chatzimarinaki Seminar 2023, Heraklion, November 2023}
+\cvlistitem{1st Mediterranean Conference on Porous Materials , Rethymnon, May
+2023}
+\cvlistitem{Chatzimarinaki Seminar 2022, Heraklion, November 2022}
+\cvlistitem{XXXVI Pan-Hellenic conference on Solid-State Physics and Materials
+Science, Heraklion, September 2022}
+
+
+\section{Workshops}
+\cvlistitem{Computational Materials Science, National Kapodistrinan University
+of Athens, Online, December 2023}
+\cvlistitem{Computational Materials Science, University of Ioannina, Online,
+December 2022}
+\cvlistitem{Computational Materials Science, University of Patras, Online,
+December 2021}
+\cvlistitem{DCMS Materials 4.0 Summer School, TU Dresden, Online, August 2021}
+
+\section{Working experience}
+\cvline{2024}{Teaching assistant on the Laboratory of Physical-Chemistry I,
+Department of Chemistry, University of Crete}
+\cvline{2023}{Teaching assistant on the Laboratory of Physical-Chemistry II,
+Department of Chemistry, University of Crete}
+\cvline{2023}{Teaching assistant on the Laboratory of Physical-Chemistry I,
+Department of Chemistry, University of Crete}
+
+\section{Languages}
+\cvlanguage{English}{Proficiency, University of Michigan}{}
+\cvlanguage{Greek}{Native language}{}
+
+\section{Computer skills}
+\cvcomputer{Operating Systems}{Linux, Windows}{}{}
+\cvcomputer{Programming Languages}{Python, Fortran}{}{}
+\cvcomputer{Other}{\LaTeX, MSOffice}{}{}
+
+
+\end{document}
