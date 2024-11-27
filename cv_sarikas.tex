@@ -8,6 +8,7 @@
 % Packages
 \usepackage{chemmacros}
 \usepackage{enumerate}
+\usepackage{fontawesome5}
 
 % Personal data
 \title{Chemist}
@@ -22,7 +23,7 @@
 \photo[64pt]{fig/photo.jpg}
 
 % Publications
-\usepackage[sorting=ydnt, maxbibnames=99, url=false]{biblatex}
+\usepackage[sorting=ydnt, maxbibnames=99, url=false, isbn=false]{biblatex}
 \addbibresource{publications.bib}
 %\renewcommand{\refname}{Publications}
 
@@ -30,7 +31,7 @@
 
 \makecvtitle
 
-\section{Education}
+\section{\faGraduationCap{} Education}
 \cvline{2022--2024}{Master of Science, Physical Chemistry, Department of
 Chemistry, University of Crete}
 \cvline{}{\textit{9.86} (Excellent)}
@@ -41,32 +42,34 @@ University of Crete}
 %\cventry{2015--2018}{High School Degree}{Archangelos Senior High
 %School}{Rhodes}{\textit{19.9}}{}   
 
-\section{Master thesis}
+\section{\faGraduationCap{} Master thesis}
 \cvline{Title}{From the Potential Energy Surface to Gas Adsorption via Deep Learning}
 \cvline{Supervisor}{George E. Froudakis}
 \cvline{Description}{Developing a deep learning based method for predicting gas
 adsorption in porous materials.}
+\cvline{Repository}{\url{https://github.com/adosar/master_thesis}}
 
-\section{Bachelor thesis}
+\section{\faGraduationCap{} Bachelor thesis}
 \cvline{Title}{Screening of MOFs for \ch{H2} Storage via Machine Learning}
 \cvline{Supervisor}{George E. Froudakis}
 \cvline{Description}{Developing a machine learning based method for fast
 screening of large databases, in order to identify top performing MOFs for
 hydrogen storage.}
 
-\section{Scholarships -- Awards}
+\section{\faBullhorn{} Scholarships -- Awards}
 \cvline{2024}{Postgraduate fellowship, Independent Power Transmission Operator S.A. Fellowship}
 \cvline{2024}{Postgraduate fellowship, Maria Michail Manasaki Bequest Fellowship}
 \cvline{2023}{Chatzimarinaki Award, Department of Chemistry, University of
 Crete}
-\cvline{2021--2022}{Undergraduate scholarship, Stamatiou Foundation}
-\cvline{2020--2021}{Undergraduate scholarship, Stamatiou Foundation}
-\cvline{2019--2020}{Undergraduate scholarship, Stamatiou Foundation}
+\cvline{2022}{Undergraduate scholarship, Stamatiou Foundation}
+\cvline{2021}{Undergraduate scholarship, Stamatiou Foundation}
+\cvline{2020}{Undergraduate scholarship, Stamatiou Foundation}
 
 % Publications
-\section{Publications}
+\section{\faParagraph{} Publications}
 \nocite{*}
-\cvline{Published}{\printbibliography[heading=none]}
+%\cvline{Published}{\printbibliography[heading=none]}
+\printbibliography[heading=none]
 
 %\begin{thebibliography}{9}
 %	\bibitem{}
@@ -144,15 +147,16 @@ Crete}
 %	\end{description}
 %}
 
-\section{Software development}
+\section{\faCode{} Software development}
 \cvline{\includegraphics[scale=0.52]{fig/aidsorb_logo_light.pdf}}{
 	\raisebox{0.55em}{\includegraphics[scale=0.1]{fig/python_logo.pdf}}
 	\raisebox{1em}{\href{https://github.com/adosar/aidsorb}{package for deep
     learning on molecular point clouds}}
     \begin{itemize}
-        \item \href{https://github.com/adosar/aidsorb}{Source code}
-        \item \href{https://aidsorb.readthedocs.io/en/stable/}{Documentation}
-        \item \href{https://aidsorb-online.streamlit.app/}{Online app}
+        \item \faGithub{} \href{https://github.com/adosar/aidsorb}{Homepage}
+        \item \faBook{} \href{https://aidsorb.readthedocs.io/en/stable/}{Documentation}
+        \item \faEdit{} \href{https://aidsorb-online.streamlit.app/}{Online app for
+            predicing properties of porous materials}
     \end{itemize}
 }
 \cvline{\includegraphics[scale=0.11]{fig/moxel_logo.pdf}}{
@@ -160,45 +164,44 @@ Crete}
 	\raisebox{1em}{\href{https://github.com/adosar/moxel}{package for parallel calculation of energy
 	voxels}}
     \begin{itemize}
-        \item \href{https://github.com/adosar/moxel}{Source code}
-        \item \href{https://moxel.readthedocs.io/en/stable/}{Documentation}
+        \item \faGithub{} \href{https://github.com/adosar/moxel}{Homepage}
+        \item \faBook{} \href{https://moxel.readthedocs.io/en/stable/}{Documentation}
+    \end{itemize}
+}
+\cvline{\textbf{RetNet}}{A 3D ConvNet for Reticular Chemistry
+    \begin{itemize}
+        \item \faGithub{} \href{https://github.com/adosar/retnet}{Homepage}
     \end{itemize}
 }
 
-\section{Presentations -- Posters}
-\cvlistitem{Chatzimarinaki Seminar 2023, Heraklion, November 2023}
-\cvlistitem{1st Mediterranean Conference on Porous Materials , Rethymnon, May
-2023}
-\cvlistitem{Chatzimarinaki Seminar 2022, Heraklion, November 2022}
-\cvlistitem{XXXVI Pan-Hellenic conference on Solid-State Physics and Materials
-Science, Heraklion, September 2022}
+\section{\faFilePowerpoint{} Presentations -- Posters}
+\cvline{2024}{COST Action EU4MOFs, Istanbul}
+\cvline{2023}{Chatzimarinaki Seminar, Heraklion}
+\cvline{2023}{1st Mediterranean Conference on Porous Materials, Rethymnon}
+\cvline{2022}{Chatzimarinaki Seminar, Heraklion}
+\cvline{2022}{XXXVI Pan-Hellenic conference on Solid-State Physics and Materials
+Science, Heraklion}
 
+\section{\faEye{} Workshops}
+\cvline{2023}{Computational Materials Science, National Kapodistrinan University of Athens, Online}
+\cvline{2022}{Computational Materials Science, University of Ioannina, Online}
+\cvline{2021}{Computational Materials Science, University of Patras, Online}
+\cvline{2021}{DCMS Materials 4.0 Summer School, TU Dresden, Online}
 
-\section{Workshops}
-\cvlistitem{Computational Materials Science, National Kapodistrinan University
-of Athens, Online, December 2023}
-\cvlistitem{Computational Materials Science, University of Ioannina, Online,
-December 2022}
-\cvlistitem{Computational Materials Science, University of Patras, Online,
-December 2021}
-\cvlistitem{DCMS Materials 4.0 Summer School, TU Dresden, Online, August 2021}
+\section{\faKeyboard{} Computer skills}
+\cvcomputer{Operating Systems}{Fedora Linux, Ubuntu, Windows}{}{}
+\cvcomputer{Programming Languages}{Python, Fortran}{}{}
+\cvcomputer{Markup Languages}{\LaTeX, Markdown}{}{}
+\cvcomputer{Other Tools}{Git, Github, Sphinx, Vim, MSOffice}{}{}
 
-\section{Working experience}
-\cvline{2024}{Teaching assistant on the Laboratory of Physical-Chemistry I,
+\section{\faBriefcase{} Working experience}
+\cvline{2023, 2024}{Teaching assistant on the Laboratory of Physical-Chemistry I,
 Department of Chemistry, University of Crete}
 \cvline{2023}{Teaching assistant on the Laboratory of Physical-Chemistry II,
 Department of Chemistry, University of Crete}
-\cvline{2023}{Teaching assistant on the Laboratory of Physical-Chemistry I,
-Department of Chemistry, University of Crete}
 
-\section{Languages}
+\section{\faLanguage{} Languages}
 \cvlanguage{English}{Proficiency, University of Michigan}{}
 \cvlanguage{Greek}{Native language}{}
-
-\section{Computer skills}
-\cvcomputer{Operating Systems}{Linux, Windows}{}{}
-\cvcomputer{Programming Languages}{Python, Fortran}{}{}
-\cvcomputer{Other}{\LaTeX, MSOffice}{}{}
-
 
 \end{document}
