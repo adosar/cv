@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 39) (preloaded format=pdflatex 2024.5.17)  29 NOV 2024 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 39) (preloaded format=pdflatex 2024.5.17)  2 DEC 2024 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1492,10 +1492,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faGraduationCap' on input line 34.
 
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 37.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 39.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faGraduationCap' on input line 45.
+(hyperref)                removing `\faGraduationCap' on input line 46.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
@@ -1503,22 +1503,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faGraduationCap' on input line 52.
+(hyperref)                removing `\faGraduationCap' on input line 53.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faBullhorn' on input line 59.
+(hyperref)                removing `\faBullhorn' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faParagraph' on input line 69.
+(hyperref)                removing `\faParagraph' on input line 70.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 69.
+nput line 70.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 72.
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 73.
 
 [1
 Non-PDF special ignored!
@@ -1531,47 +1531,47 @@ nc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvi
 ps/fontawesome5/fa5free2.enc} <./fig/photo.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faCode' on input line 150.
+(hyperref)                removing `\faCode' on input line 151.
 
-<fig/aidsorb_logo_light.pdf, id=86, 127.34195pt x 41.96515pt>
+<fig/aidsorb_logo_light.pdf, id=85, 127.34195pt x 41.96515pt>
 File: fig/aidsorb_logo_light.pdf Graphic file (type pdf)
 <use fig/aidsorb_logo_light.pdf>
-Package pdftex.def Info: fig/aidsorb_logo_light.pdf  used on input line 159.
+Package pdftex.def Info: fig/aidsorb_logo_light.pdf  used on input line 160.
 (pdftex.def)             Requested size: 66.21819pt x 21.82199pt.
 
-Overfull \hbox (3.21709pt too wide) in paragraph at lines 159--159
+Overfull \hbox (3.21709pt too wide) in paragraph at lines 160--160
  []|[][][]|
  []
 
-<fig/python_logo.pdf, id=87, 390.29814pt x 115.45132pt>
+<fig/python_logo.pdf, id=86, 390.29814pt x 115.45132pt>
 File: fig/python_logo.pdf Graphic file (type pdf)
 <use fig/python_logo.pdf>
-Package pdftex.def Info: fig/python_logo.pdf  used on input line 159.
+Package pdftex.def Info: fig/python_logo.pdf  used on input line 160.
 (pdftex.def)             Requested size: 39.03209pt x 11.5458pt.
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 159.
-<fig/moxel_logo.pdf, id=93, 554.51398pt x 243.20763pt>
+n input line 160.
+<fig/moxel_logo.pdf, id=92, 554.51398pt x 243.20763pt>
 File: fig/moxel_logo.pdf Graphic file (type pdf)
 <use fig/moxel_logo.pdf>
-Package pdftex.def Info: fig/moxel_logo.pdf  used on input line 174.
+Package pdftex.def Info: fig/moxel_logo.pdf  used on input line 175.
 (pdftex.def)             Requested size: 60.99672pt x 26.75291pt.
 File: fig/python_logo.pdf Graphic file (type pdf)
 <use fig/python_logo.pdf>
-Package pdftex.def Info: fig/python_logo.pdf  used on input line 174.
+Package pdftex.def Info: fig/python_logo.pdf  used on input line 175.
 (pdftex.def)             Requested size: 39.03209pt x 11.5458pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faFilePowerpoint' on input line 181.
+(hyperref)                removing `\faFilePowerpoint' on input line 182.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faEye' on input line 189.
+(hyperref)                removing `\faEye' on input line 190.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faKeyboard' on input line 195.
+(hyperref)                removing `\faKeyboard' on input line 196.
 
 [2 <./fig/aidsorb_logo_light.pdf> <./fig/python_logo.pdf
 
@@ -1584,11 +1584,11 @@ dfs with page group included in a single page
 >]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faBriefcase' on input line 201.
+(hyperref)                removing `\faBriefcase' on input line 202.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faLanguage' on input line 207.
+(hyperref)                removing `\faLanguage' on input line 208.
 
 [3] (./cv_sarikas.aux)
 
@@ -1596,19 +1596,19 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
 
 Package rerunfilecheck Info: File `cv_sarikas.out' has not changed.
-(rerunfilecheck)             Checksum: 892F38D2C690584AE25F9CA2D960B393;1418.
+(rerunfilecheck)             Checksum: E0D5D7F24A0771EA453FDA7901A74333;1359.
 Package logreq Info: Writing requests to 'cv_sarikas.run.xml'.
 \openout1 = `cv_sarikas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44075 strings out of 476041
- 950383 string characters out of 5793164
+ 44077 strings out of 476041
+ 950456 string characters out of 5793164
  1896388 words of memory out of 6000000
- 63783 multiletter control sequences out of 15000+600000
- 534726 words of font info for 156 fonts, out of 8000000 for 9000
+ 63785 multiletter control sequences out of 15000+600000
+ 535037 words of font info for 157 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 129i,15n,122p,1007b,2005s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,15n,122p,1007b,1996s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
 ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
 /FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
@@ -1622,7 +1622,7 @@ nts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_sarikas.pdf (3 pages, 1074610 bytes).
+Output written on cv_sarikas.pdf (3 pages, 1076364 bytes).
 PDF statistics:
  288 PDF objects out of 1000 (max. 8388607)
  224 compressed objects within 3 object streams
