@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 39) (preloaded format=pdflatex 2024.5.17)  3 DEC 2024 01:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 39) (preloaded format=pdflatex 2024.5.17)  12 DEC 2024 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1232,10 +1232,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip127
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 30.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 30.
+Package hyperref Info: Option `breaklinks' set `true' on input line 31.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 31.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 30.
+h' as default language. on input line 31.
 \@quotelevel=\count483
 \@quotereset=\count484
 
@@ -1315,24 +1315,24 @@ Package chemmacros Info: Using float defining method `traditional'.
  (./cv_sarikas.aux)
 \openout1 = `cv_sarikas.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1356,19 +1356,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 30.
-Package microtype Info: Applying patch `item' on input line 30.
-Package microtype Info: Applying patch `toc' on input line 30.
-Package microtype Info: Applying patch `eqnum' on input line 30.
-Package microtype Info: Applying patch `footnote' on input line 30.
-Package microtype Info: Applying patch `verbatim' on input line 30.
+LaTeX Info: Redefining \microtypecontext on input line 31.
+Package microtype Info: Applying patch `item' on input line 31.
+Package microtype Info: Applying patch `toc' on input line 31.
+Package microtype Info: Applying patch `eqnum' on input line 31.
+Package microtype Info: Applying patch `footnote' on input line 31.
+Package microtype Info: Applying patch `verbatim' on input line 31.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 30.
+LaTeX Info: Redefining \showhyphens on input line 31.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1418,9 +1418,9 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 30.
+or `english'. on input line 31.
 
-Package chemgreek Info: Activating mapping `default' on line 30.
+Package chemgreek Info: Activating mapping `default' on line 31.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1437,16 +1437,16 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv_sarikas.bbl' found.
 
 (./cv_sarikas.bbl)
-Package biblatex Info: Reference section=0 on input line 30.
-Package biblatex Info: Reference segment=0 on input line 30.
-Package hyperref Info: Link coloring OFF on input line 30.
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
+Package hyperref Info: Link coloring OFF on input line 31.
  (./cv_sarikas.out) (./cv_sarikas.out)
 \@outlinefile=\write6
 \openout6 = `cv_sarikas.out'.
 
 \pagenumberwidth=\skip136
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 30.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 31.
 
 
 Package chemmacros Warning: You haven't loaded any package for upright Greek
@@ -1462,22 +1462,30 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 32.
+nput line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 32.
+ input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 32.
+n input line 33.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
+ input line 33.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not 
+available
+(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
+n input line 33.
 \makecvheadpicturebox=\box93
-<fig/photo.jpg, id=56, 256.96pt x 144.54pt>
+<fig/photo.jpg, id=61, 256.96pt x 144.54pt>
 File: fig/photo.jpg Graphic file (type jpg)
 <use fig/photo.jpg>
-Package pdftex.def Info: fig/photo.jpg  used on input line 32.
+Package pdftex.def Info: fig/photo.jpg  used on input line 33.
 (pdftex.def)             Requested size: 64.0pt x 36.00037pt.
 \makecvheaddetailswidth=\skip137
 \makecvheadpicturewidth=\skip138
@@ -1485,17 +1493,17 @@ Package pdftex.def Info: fig/photo.jpg  used on input line 32.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <34> not available
-(Font)              size <24.88> substituted on input line 32.
+(Font)              size <24.88> substituted on input line 33.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faGraduationCap' on input line 34.
+(hyperref)                removing `\faGraduationCap' on input line 35.
 
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 39.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 40.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faGraduationCap' on input line 46.
+(hyperref)                removing `\faGraduationCap' on input line 47.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
@@ -1503,22 +1511,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faGraduationCap' on input line 53.
+(hyperref)                removing `\faGraduationCap' on input line 54.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faBullhorn' on input line 60.
+(hyperref)                removing `\faBullhorn' on input line 61.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faParagraph' on input line 70.
+(hyperref)                removing `\faParagraph' on input line 71.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 70.
+nput line 71.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 73.
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 74.
 
 [1
 Non-PDF special ignored!
@@ -1527,53 +1535,58 @@ Non-PDF special ignored!
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fon
 ts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/e
-nc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvi
-ps/fontawesome5/fa5free2.enc} <./fig/photo.jpg>]
+nc/dvips/fontawesome5/fa5brands1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/d
+vips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/f
+ontawesome5/fa5free2.enc} <./fig/photo.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faCode' on input line 151.
+(hyperref)                removing `\faLowVision' on input line 152.
 
-<fig/aidsorb_logo_light.pdf, id=85, 127.34195pt x 41.96515pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faCode' on input line 155.
+
+<fig/aidsorb_logo_light.pdf, id=92, 127.34195pt x 41.96515pt>
 File: fig/aidsorb_logo_light.pdf Graphic file (type pdf)
 <use fig/aidsorb_logo_light.pdf>
-Package pdftex.def Info: fig/aidsorb_logo_light.pdf  used on input line 160.
+Package pdftex.def Info: fig/aidsorb_logo_light.pdf  used on input line 164.
 (pdftex.def)             Requested size: 66.21819pt x 21.82199pt.
 
-Overfull \hbox (3.21709pt too wide) in paragraph at lines 160--160
+Overfull \hbox (3.21709pt too wide) in paragraph at lines 164--164
  []|[][][]|
  []
 
-<fig/python_logo.pdf, id=86, 390.29814pt x 115.45132pt>
+<fig/python_logo.pdf, id=93, 390.29814pt x 115.45132pt>
 File: fig/python_logo.pdf Graphic file (type pdf)
 <use fig/python_logo.pdf>
-Package pdftex.def Info: fig/python_logo.pdf  used on input line 160.
+Package pdftex.def Info: fig/python_logo.pdf  used on input line 164.
 (pdftex.def)             Requested size: 39.03209pt x 11.5458pt.
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 160.
-<fig/moxel_logo.pdf, id=92, 554.51398pt x 243.20763pt>
+n input line 164.
+<fig/moxel_logo.pdf, id=99, 554.51398pt x 243.20763pt>
 File: fig/moxel_logo.pdf Graphic file (type pdf)
 <use fig/moxel_logo.pdf>
-Package pdftex.def Info: fig/moxel_logo.pdf  used on input line 175.
+Package pdftex.def Info: fig/moxel_logo.pdf  used on input line 179.
 (pdftex.def)             Requested size: 60.99672pt x 26.75291pt.
 File: fig/python_logo.pdf Graphic file (type pdf)
 <use fig/python_logo.pdf>
-Package pdftex.def Info: fig/python_logo.pdf  used on input line 175.
+Package pdftex.def Info: fig/python_logo.pdf  used on input line 179.
 (pdftex.def)             Requested size: 39.03209pt x 11.5458pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faFilePowerpoint' on input line 182.
+(hyperref)                removing `\faFilePowerpoint' on input line 186.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faEye' on input line 190.
+(hyperref)                removing `\faUsers' on input line 194.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faKeyboard' on input line 196.
-
-[2 <./fig/aidsorb_logo_light.pdf> <./fig/python_logo.pdf
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
+nput line 194.
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
+[2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc} <./
+fig/aidsorb_logo_light.pdf> <./fig/python_logo.pdf
 
 pdfTeX warning: pdflatex (file ./fig/python_logo.pdf): PDF inclusion: multiple 
 pdfs with page group included in a single page
@@ -1584,11 +1597,15 @@ dfs with page group included in a single page
 >]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faBriefcase' on input line 202.
+(hyperref)                removing `\faKeyboard' on input line 200.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faLanguage' on input line 208.
+(hyperref)                removing `\faBriefcase' on input line 206.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faLanguage' on input line 212.
 
 [3] (./cv_sarikas.aux)
 
@@ -1596,17 +1613,17 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
 
 Package rerunfilecheck Info: File `cv_sarikas.out' has not changed.
-(rerunfilecheck)             Checksum: E0D5D7F24A0771EA453FDA7901A74333;1359.
+(rerunfilecheck)             Checksum: 88F101D187A2A349BAB0E5934BE8AD12;1525.
 Package logreq Info: Writing requests to 'cv_sarikas.run.xml'.
 \openout1 = `cv_sarikas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44077 strings out of 476041
- 950456 string characters out of 5793164
+ 44126 strings out of 476041
+ 951844 string characters out of 5793164
  1896388 words of memory out of 6000000
- 63785 multiletter control sequences out of 15000+600000
- 535037 words of font info for 157 fonts, out of 8000000 for 9000
+ 63821 multiletter control sequences out of 15000+600000
+ 535583 words of font info for 159 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  129i,15n,122p,1007b,1996s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
@@ -1622,10 +1639,10 @@ nts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_sarikas.pdf (3 pages, 1076363 bytes).
+Output written on cv_sarikas.pdf (3 pages, 1090705 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
- 20 named destinations out of 1000 (max. 500000)
- 57977 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 302 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 57985 words of extra memory for PDF output out of 61914 (max. 10000000)
 
