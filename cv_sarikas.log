@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 39) (preloaded format=pdflatex 2024.5.17)  7 FEB 2025 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Fedora 39) (preloaded format=pdflatex 2024.5.17)  10 FEB 2025 01:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1546,7 +1546,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faCode' on input line 155.
 
-<fig/aidsorb_logo_light.pdf, id=92, 127.34195pt x 41.96515pt>
+<fig/aidsorb_logo_light.pdf, id=90, 127.34195pt x 41.96515pt>
 File: fig/aidsorb_logo_light.pdf Graphic file (type pdf)
 <use fig/aidsorb_logo_light.pdf>
 Package pdftex.def Info: fig/aidsorb_logo_light.pdf  used on input line 164.
@@ -1556,7 +1556,7 @@ Overfull \hbox (3.21709pt too wide) in paragraph at lines 164--164
  []|[][][]|
  []
 
-<fig/python_logo.pdf, id=93, 390.29814pt x 115.45132pt>
+<fig/python_logo.pdf, id=91, 390.29814pt x 115.45132pt>
 File: fig/python_logo.pdf Graphic file (type pdf)
 <use fig/python_logo.pdf>
 Package pdftex.def Info: fig/python_logo.pdf  used on input line 164.
@@ -1565,7 +1565,7 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
 n input line 164.
-<fig/moxel_logo.pdf, id=99, 554.51398pt x 243.20763pt>
+<fig/moxel_logo.pdf, id=97, 554.51398pt x 243.20763pt>
 File: fig/moxel_logo.pdf Graphic file (type pdf)
 <use fig/moxel_logo.pdf>
 Package pdftex.def Info: fig/moxel_logo.pdf  used on input line 179.
@@ -1582,11 +1582,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faUsers' on input line 194.
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 194.
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-[2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc} <./
-fig/aidsorb_logo_light.pdf> <./fig/python_logo.pdf
+[2 <./fig/aidsorb_logo_light.pdf> <./fig/python_logo.pdf
 
 pdfTeX warning: pdflatex (file ./fig/python_logo.pdf): PDF inclusion: multiple 
 pdfs with page group included in a single page
@@ -1595,6 +1591,9 @@ pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./fig/moxel_logo.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
 >]
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
+nput line 194.
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faKeyboard' on input line 201.
@@ -1607,7 +1606,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faLanguage' on input line 213.
 
-[3] (./cv_sarikas.aux)
+[3{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}]
+(./cv_sarikas.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
@@ -1619,13 +1619,13 @@ Package logreq Info: Writing requests to 'cv_sarikas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44126 strings out of 476041
- 951844 string characters out of 5793164
+ 44128 strings out of 476041
+ 951862 string characters out of 5793164
  1896388 words of memory out of 6000000
  63821 multiletter control sequences out of 15000+600000
- 535583 words of font info for 159 fonts, out of 8000000 for 9000
+ 535648 words of font info for 160 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 129i,15n,122p,1007b,1996s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,15n,122p,1007b,2006s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
 ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
 /FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
@@ -1639,7 +1639,7 @@ nts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_sarikas.pdf (3 pages, 1090712 bytes).
+Output written on cv_sarikas.pdf (3 pages, 1090694 bytes).
 PDF statistics:
  302 PDF objects out of 1000 (max. 8388607)
  236 compressed objects within 3 object streams
