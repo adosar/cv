@@ -119,7 +119,7 @@
       \verb https://doi.org/10.1038/s41598-024-76319-8
       \endverb
     \endentry
-    \entry{book_chapter}{incollection}{}
+    \entry{Sarikas2023a}{incollection}{}
       \name{author}{3}{}{%
         {{hash=893845243d776b680b49a098565fc1a4}{%
            family={Sarikas},
@@ -221,7 +221,7 @@
       \verb http://dx.doi.org/10.1016/j.scenv.2023.100056
       \endverb
     \endentry
-    \entry{Sarikas_2023}{article}{}
+    \entry{Sarikas2023b}{article}{}
       \name{author}{5}{}{%
         {{hash=893845243d776b680b49a098565fc1a4}{%
            family={Sarikas},
