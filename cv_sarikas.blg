@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv_sarikas.blg'
-[81] biber:340> INFO - === Sat Apr 12, 2025, 02:43:42
-[95] Biber.pm:419> INFO - Reading 'cv_sarikas.bcf'
-[163] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[176] Biber.pm:4419> INFO - Processing section 0
-[186] Biber.pm:4610> INFO - Looking for bibtex file 'publications.bib' for section 0
-[187] bibtex.pm:1713> INFO - LaTeX decoding ...
-[196] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
-[269] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[269] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[269] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[270] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[279] bbl.pm:660> INFO - Writing 'cv_sarikas.bbl' with encoding 'UTF-8'
-[283] bbl.pm:763> INFO - Output to cv_sarikas.bbl
+[84] biber:340> INFO - === Thu Jun 26, 2025, 03:04:08
+[99] Biber.pm:419> INFO - Reading 'cv_sarikas.bcf'
+[166] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[180] Biber.pm:4419> INFO - Processing section 0
+[190] Biber.pm:4610> INFO - Looking for bibtex file 'publications.bib' for section 0
+[191] bibtex.pm:1713> INFO - LaTeX decoding ...
+[200] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
+[301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[301] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[301] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[313] bbl.pm:660> INFO - Writing 'cv_sarikas.bbl' with encoding 'UTF-8'
+[316] bbl.pm:763> INFO - Output to cv_sarikas.bbl

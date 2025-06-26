@@ -19,6 +19,93 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{Ozcan2025}{article}{}
+      \name{author}{11}{}{%
+        {{hash=e587bbe9bdeb923f7b1a69112997991f}{%
+           family={Ozcan},
+           familyi={O\bibinitperiod},
+           given={Aydin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=efba76dcd759fbddfd6c19e277e4cfe9}{%
+           family={Coudert},
+           familyi={C\bibinitperiod},
+           given={François-Xavier},
+           giveni={F\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=98ef2ac31d1efcb324e88b647d132cf9}{%
+           family={Rogge},
+           familyi={R\bibinitperiod},
+           given={Sven\bibnamedelimb M.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5d3fd4af7864b3b28f1c4539551df227}{%
+           family={Heydenrych},
+           familyi={H\bibinitperiod},
+           given={Greta},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6e3b8e83f657316e8fafb4eea7369433}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=893845243d776b680b49a098565fc1a4}{%
+           family={Sarikas},
+           familyi={S\bibinitperiod},
+           given={Antonios\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=45372ff05e303ea13b5a464fbe811008}{%
+           family={Keskin},
+           familyi={K\bibinitperiod},
+           given={Seda},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a93b929ce80c6d3983cf1e35e89a7b5f}{%
+           family={Maurin},
+           familyi={M\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
+           family={Froudakis},
+           familyi={F\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0f1136b7c8a87779f2f5d3d855b5f0ba}{%
+           family={Wuttke},
+           familyi={W\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cd4d16d4375fd4b9e5eb8f7c05dddcc1}{%
+           family={Erucar},
+           familyi={E\bibinitperiod},
+           given={Ilknur},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
+      \strng{namehash}{0129d43cb140263ca3b5a3786bf03cb9}
+      \strng{fullhash}{5baea6783f5c333c0ee9d349a3c196dd}
+      \strng{bibnamehash}{5baea6783f5c333c0ee9d349a3c196dd}
+      \strng{authorbibnamehash}{5baea6783f5c333c0ee9d349a3c196dd}
+      \strng{authornamehash}{0129d43cb140263ca3b5a3786bf03cb9}
+      \strng{authorfullhash}{5baea6783f5c333c0ee9d349a3c196dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1520-5126}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{month}{6}
+      \field{title}{Artificial Intelligence Paradigms for Next-Generation Metal–Organic Framework Research}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1021/jacs.5c08214
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1021/jacs.5c08214
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/jacs.5c08214
+      \endverb
+    \endentry
     \entry{Sarikas2024b}{article}{}
       \name{author}{3}{}{%
         {{hash=893845243d776b680b49a098565fc1a4}{%
