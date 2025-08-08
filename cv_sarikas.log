@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Fedora 39) (preloaded format=xelatex 2024.5.17)  8 JUL 2025 12:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Fedora 39) (preloaded format=xelatex 2024.5.17)  9 AUG 2025 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1811,19 +1811,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 128.
+(hyperref)                removing `\faPreselectedIcon' on input line 129.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 135.
+(hyperref)                removing `\faPreselectedIcon' on input line 136.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 141.
+(hyperref)                removing `\faPreselectedIcon' on input line 142.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 149.
+(hyperref)                removing `\faPreselectedIcon' on input line 150.
 
 [3] (./cv_sarikas.aux)
 Package rerunfilecheck Info: File `cv_sarikas.out' has not changed.
