@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Fedora 39) (preloaded format=xelatex 2024.5.17)  22 SEP 2025 22:18
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Fedora 39) (preloaded format=xelatex 2024.5.17)  10 OCT 2025 02:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1781,20 +1781,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 80.
+(hyperref)                removing `\faPreselectedIcon' on input line 86.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 85.
+(hyperref)                removing `\faPreselectedIcon' on input line 91.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 90.
+(hyperref)                removing `\faPreselectedIcon' on input line 96.
 
 File: fig/aidsorb_logo_light.pdf Graphic file (type pdf)
 <use fig/aidsorb_logo_light.pdf>
 
-Overfull \hbox (3.21709pt too wide) in paragraph at lines 99--99
+Overfull \hbox (3.21709pt too wide) in paragraph at lines 105--105
  []|[][][]|
  []
 
@@ -1804,18 +1804,14 @@ File: fig/moxel_logo.pdf Graphic file (type pdf)
 <use fig/moxel_logo.pdf>
 File: fig/python_logo.pdf Graphic file (type pdf)
 <use fig/python_logo.pdf>
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 121.
-
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 135.
+(hyperref)                removing `\faPreselectedIcon' on input line 127.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 142.
+(hyperref)                removing `\faPreselectedIcon' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1823,7 +1819,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\faPreselectedIcon' on input line 156.
+(hyperref)                removing `\faPreselectedIcon' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\faPreselectedIcon' on input line 162.
 
 [3] (./cv_sarikas.aux)
 Package rerunfilecheck Info: File `cv_sarikas.out' has not changed.
