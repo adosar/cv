@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Fedora 39) (preloaded format=xelatex 2024.5.17)  19 OCT 2025 21:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Fedora 39) (preloaded format=xelatex 2024.5.17)  22 OCT 2025 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1821,14 +1821,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faPreselectedIcon' on input line 155.
 
+[3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\faPreselectedIcon' on input line 163.
 
-[3] [4] (./cv_sarikas.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+[4] (./cv_sarikas.aux)
 Package rerunfilecheck Info: File `cv_sarikas.out' has not changed.
 (rerunfilecheck)             Checksum: 77BA57099AA18ABAB600E93CE92662A4;2126.
 Package logreq Info: Writing requests to 'cv_sarikas.run.xml'.
@@ -1836,12 +1834,12 @@ Package logreq Info: Writing requests to 'cv_sarikas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44828 strings out of 476696
- 994615 string characters out of 5806955
+ 44831 strings out of 476696
+ 994767 string characters out of 5806955
  1887018 words of memory out of 6000000
- 64391 multiletter control sequences out of 15000+600000
+ 64394 multiletter control sequences out of 15000+600000
  522377 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  129i,15n,122p,1007b,4778s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv_sarikas.pdf (4 pages).
+Output written on cv_sarikas.xdv (4 pages, 86168 bytes).

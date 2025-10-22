@@ -106,6 +106,41 @@
       \verb http://dx.doi.org/10.1021/jacs.5c08214
       \endverb
     \endentry
+    \entry{sarikas2025retnext}{article}{}
+      \name{author}{3}{}{%
+        {{hash=893845243d776b680b49a098565fc1a4}{%
+           family={Sarikas},
+           familyi={S\bibinitperiod},
+           given={Antonios\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ac930012d10a3fa44c93cabc969994c7}{%
+           family={Gkagkas},
+           familyi={G\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
+           family={Froudakis},
+           familyi={F\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{fullhash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{bibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chemical Information and Modeling (Submitted)}
+      \field{month}{10}
+      \field{title}{RetNeXt: A pretrained model for transfer learning across the MOF adsorption space}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
     \entry{Sarikas2024b}{article}{}
       \name{author}{3}{}{%
         {{hash=893845243d776b680b49a098565fc1a4}{%
@@ -134,7 +169,7 @@
       \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -181,7 +216,7 @@
       \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}

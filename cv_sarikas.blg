@@ -1,15 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv_sarikas.blg'
-[84] biber:340> INFO - === Thu Jun 26, 2025, 03:04:08
-[99] Biber.pm:419> INFO - Reading 'cv_sarikas.bcf'
-[166] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[180] Biber.pm:4419> INFO - Processing section 0
-[190] Biber.pm:4610> INFO - Looking for bibtex file 'publications.bib' for section 0
-[191] bibtex.pm:1713> INFO - LaTeX decoding ...
-[200] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
-[301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[301] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[301] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[313] bbl.pm:660> INFO - Writing 'cv_sarikas.bbl' with encoding 'UTF-8'
-[316] bbl.pm:763> INFO - Output to cv_sarikas.bbl
+[139] biber:340> INFO - === Wed Oct 22, 2025, 22:10:19
+[159] Biber.pm:419> INFO - Reading 'cv_sarikas.bcf'
+[251] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[268] Biber.pm:4419> INFO - Processing section 0
+[282] Biber.pm:4610> INFO - Looking for bibtex file 'publications.bib' for section 0
+[283] bibtex.pm:1713> INFO - LaTeX decoding ...
+[295] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
+[432] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[432] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[432] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[432] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[450] bbl.pm:660> INFO - Writing 'cv_sarikas.bbl' with encoding 'UTF-8'
+[455] bbl.pm:763> INFO - Output to cv_sarikas.bbl
+[455] Biber.pm:131> WARN - legacy month field 'October' in entry 'sarikas2025retnext' is not an integer - this will probably not sort properly.
+[455] Biber.pm:133> INFO - WARNINGS: 1
