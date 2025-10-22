@@ -18,7 +18,42 @@
 
 
 \refsection{0}
-  \datalist[entry]{ydnt/global//global/global}
+  \datalist[entry]{none/global//global/global}
+    \entry{sarikas2025retnext}{article}{}
+      \name{author}{3}{}{%
+        {{hash=893845243d776b680b49a098565fc1a4}{%
+           family={Sarikas},
+           familyi={S\bibinitperiod},
+           given={Antonios\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ac930012d10a3fa44c93cabc969994c7}{%
+           family={Gkagkas},
+           familyi={G\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
+           family={Froudakis},
+           familyi={F\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{fullhash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{bibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chemical Information and Modeling (Submitted)}
+      \field{month}{10}
+      \field{title}{RetNeXt: A pretrained model for transfer learning across the MOF adsorption space}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
     \entry{Ozcan2025}{article}{}
       \name{author}{11}{}{%
         {{hash=e587bbe9bdeb923f7b1a69112997991f}{%
@@ -86,8 +121,8 @@
       \strng{authorbibnamehash}{5baea6783f5c333c0ee9d349a3c196dd}
       \strng{authornamehash}{0129d43cb140263ca3b5a3786bf03cb9}
       \strng{authorfullhash}{5baea6783f5c333c0ee9d349a3c196dd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1520-5126}
@@ -104,92 +139,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1021/jacs.5c08214
-      \endverb
-    \endentry
-    \entry{sarikas2025retnext}{article}{}
-      \name{author}{3}{}{%
-        {{hash=893845243d776b680b49a098565fc1a4}{%
-           family={Sarikas},
-           familyi={S\bibinitperiod},
-           given={Antonios\bibnamedelima P.},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=ac930012d10a3fa44c93cabc969994c7}{%
-           family={Gkagkas},
-           familyi={G\bibinitperiod},
-           given={Konstantinos},
-           giveni={K\bibinitperiod}}}%
-        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
-           family={Froudakis},
-           familyi={F\bibinitperiod},
-           given={George\bibnamedelima E.},
-           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{fullhash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{bibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Chemical Information and Modeling (Submitted)}
-      \field{month}{10}
-      \field{title}{RetNeXt: A pretrained model for transfer learning across the MOF adsorption space}
-      \field{year}{2025}
-      \true{nocite}
-    \endentry
-    \entry{Sarikas2024b}{article}{}
-      \name{author}{3}{}{%
-        {{hash=893845243d776b680b49a098565fc1a4}{%
-           family={Sarikas},
-           familyi={S\bibinitperiod},
-           given={Antonios\bibnamedelima P.},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=ac930012d10a3fa44c93cabc969994c7}{%
-           family={Gkagkas},
-           familyi={G\bibinitperiod},
-           given={Konstantinos},
-           giveni={K\bibinitperiod}}}%
-        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
-           family={Froudakis},
-           familyi={F\bibinitperiod},
-           given={George\bibnamedelima E.},
-           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media LLC}%
-      }
-      \strng{namehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{fullhash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{bibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2045-2322}
-      \field{journaltitle}{Scientific Reports}
-      \field{month}{1}
-      \field{number}{1}
-      \field{title}{Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks}
-      \field{volume}{14}
-      \field{year}{2024}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.1038/s41598-023-50309-8
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1038/s41598-023-50309-8
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/s41598-023-50309-8
       \endverb
     \endentry
     \entry{Sarikas2024c}{article}{}
@@ -216,9 +165,9 @@
       \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2045-2322}
@@ -268,8 +217,8 @@
       \strng{authorbibnamehash}{8da2a2cc5bce1bdd685c925556b412b3}
       \strng{authornamehash}{8da2a2cc5bce1bdd685c925556b412b3}
       \strng{authorfullhash}{8da2a2cc5bce1bdd685c925556b412b3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Reticular Chemistry and Applications}
@@ -285,62 +234,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1515/9781501524721
-      \endverb
-    \endentry
-    \entry{Sarikas2024a}{article}{}
-      \name{author}{4}{}{%
-        {{hash=893845243d776b680b49a098565fc1a4}{%
-           family={Sarikas},
-           familyi={S\bibinitperiod},
-           given={Antonios\bibnamedelima P.},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=80495f70aa8fbdcad085c68034e2bff6}{%
-           family={Fanourgakis},
-           familyi={F\bibinitperiod},
-           given={George\bibnamedelima S.},
-           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=ac930012d10a3fa44c93cabc969994c7}{%
-           family={Gkagkas},
-           familyi={G\bibinitperiod},
-           given={Konstantinos},
-           giveni={K\bibinitperiod}}}%
-        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
-           family={Froudakis},
-           familyi={F\bibinitperiod},
-           given={George\bibnamedelima E.},
-           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier BV}%
-      }
-      \strng{namehash}{2178a54cea7e3e39379e3c9f509ade37}
-      \strng{fullhash}{2fb2357240edfb7266bb2fd168112661}
-      \strng{bibnamehash}{2fb2357240edfb7266bb2fd168112661}
-      \strng{authorbibnamehash}{2fb2357240edfb7266bb2fd168112661}
-      \strng{authornamehash}{2178a54cea7e3e39379e3c9f509ade37}
-      \strng{authorfullhash}{2fb2357240edfb7266bb2fd168112661}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2949-8392}
-      \field{journaltitle}{Sustainable Chemistry for the Environment}
-      \field{month}{3}
-      \field{title}{Comparison of machine learning approaches for the identification of top-performing materials for hydrogen storage}
-      \field{volume}{5}
-      \field{year}{2023}
-      \true{nocite}
-      \field{pages}{100056}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.scenv.2023.100056
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1016/j.scenv.2023.100056
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1016/j.scenv.2023.100056
       \endverb
     \endentry
     \entry{Sarikas2023b}{article}{}
@@ -380,9 +273,9 @@
       \strng{authorbibnamehash}{e6565710155c44c11ac228e631692a87}
       \strng{authornamehash}{2178a54cea7e3e39379e3c9f509ade37}
       \strng{authorfullhash}{e6565710155c44c11ac228e631692a87}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Journal of Physical Chemistry C}
@@ -398,6 +291,113 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1021/acs.jpcc.3c04223
+      \endverb
+    \endentry
+    \entry{Sarikas2024a}{article}{}
+      \name{author}{4}{}{%
+        {{hash=893845243d776b680b49a098565fc1a4}{%
+           family={Sarikas},
+           familyi={S\bibinitperiod},
+           given={Antonios\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=80495f70aa8fbdcad085c68034e2bff6}{%
+           family={Fanourgakis},
+           familyi={F\bibinitperiod},
+           given={George\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ac930012d10a3fa44c93cabc969994c7}{%
+           family={Gkagkas},
+           familyi={G\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
+           family={Froudakis},
+           familyi={F\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{2178a54cea7e3e39379e3c9f509ade37}
+      \strng{fullhash}{2fb2357240edfb7266bb2fd168112661}
+      \strng{bibnamehash}{2fb2357240edfb7266bb2fd168112661}
+      \strng{authorbibnamehash}{2fb2357240edfb7266bb2fd168112661}
+      \strng{authornamehash}{2178a54cea7e3e39379e3c9f509ade37}
+      \strng{authorfullhash}{2fb2357240edfb7266bb2fd168112661}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2949-8392}
+      \field{journaltitle}{Sustainable Chemistry for the Environment}
+      \field{month}{3}
+      \field{title}{Comparison of machine learning approaches for the identification of top-performing materials for hydrogen storage}
+      \field{volume}{5}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{100056}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.scenv.2023.100056
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.scenv.2023.100056
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.scenv.2023.100056
+      \endverb
+    \endentry
+    \entry{Sarikas2024b}{article}{}
+      \name{author}{3}{}{%
+        {{hash=893845243d776b680b49a098565fc1a4}{%
+           family={Sarikas},
+           familyi={S\bibinitperiod},
+           given={Antonios\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ac930012d10a3fa44c93cabc969994c7}{%
+           family={Gkagkas},
+           familyi={G\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6106cd0a5064c29512ff1236f3d74fe7}{%
+           family={Froudakis},
+           familyi={F\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{fullhash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{bibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authorbibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authornamehash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \strng{authorfullhash}{749a89ca96ee1c0295b998c660c2b6f9}
+      \field{extraname}{3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks}
+      \field{volume}{14}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1038/s41598-023-50309-8
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/s41598-023-50309-8
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/s41598-023-50309-8
       \endverb
     \endentry
   \enddatalist
