@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{sarikas2025retnext}{article}{}
+    \entry{Sarikas2026}{article}{}
       \name{author}{3}{}{%
         {{hash=893845243d776b680b49a098565fc1a4}{%
            family={Sarikas},
@@ -37,6 +37,9 @@
            given={George\bibnamedelima E.},
            giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {American Chemical Society (ACS)}%
+      }
       \strng{namehash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{fullhash}{749a89ca96ee1c0295b998c660c2b6f9}
       \strng{bibnamehash}{749a89ca96ee1c0295b998c660c2b6f9}
@@ -48,11 +51,21 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Chemical Information and Modeling (Submitted)}
-      \field{month}{10}
-      \field{title}{RetNeXt: A pretrained model for transfer learning across the MOF adsorption space}
-      \field{year}{2025}
+      \field{issn}{1549-960X}
+      \field{journaltitle}{Journal of Chemical Information and Modeling}
+      \field{month}{2}
+      \field{title}{RetNeXt: A Pretrained Model for Transfer Learning Across the MOF Adsorption Space}
+      \field{year}{2026}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1021/acs.jcim.5c02698
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1021/acs.jcim.5c02698
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1021/acs.jcim.5c02698
+      \endverb
     \endentry
     \entry{Ozcan2025}{article}{}
       \name{author}{11}{}{%

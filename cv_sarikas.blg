@@ -1,17 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'cv_sarikas.blg'
-[84] biber:340> INFO - === Thu Oct 23, 2025, 17:12:38
-[99] Biber.pm:419> INFO - Reading 'cv_sarikas.bcf'
-[165] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[178] Biber.pm:4419> INFO - Processing section 0
-[189] Biber.pm:4610> INFO - Looking for bibtex file 'publications.bib' for section 0
-[190] bibtex.pm:1713> INFO - LaTeX decoding ...
-[199] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
-[317] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[317] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[317] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[317] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[330] bbl.pm:660> INFO - Writing 'cv_sarikas.bbl' with encoding 'UTF-8'
-[335] bbl.pm:763> INFO - Output to cv_sarikas.bbl
-[335] Biber.pm:131> WARN - legacy month field 'October' in entry 'sarikas2025retnext' is not an integer - this will probably not sort properly.
-[335] Biber.pm:133> INFO - WARNINGS: 1
+[132] biber:340> INFO - === Wed Feb  4, 2026, 17:20:15
+[153] Biber.pm:419> INFO - Reading 'cv_sarikas.bcf'
+[245] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[262] Biber.pm:4419> INFO - Processing section 0
+[276] Biber.pm:4610> INFO - Looking for bibtex file 'publications.bib' for section 0
+[278] bibtex.pm:1713> INFO - LaTeX decoding ...
+[291] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
+[421] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[422] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[422] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[422] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[435] bbl.pm:660> INFO - Writing 'cv_sarikas.bbl' with encoding 'UTF-8'
+[440] bbl.pm:763> INFO - Output to cv_sarikas.bbl
